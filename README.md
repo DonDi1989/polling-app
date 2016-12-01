@@ -1,2 +1,2 @@
 # polling-app
-Polling App with Socket IO and ReactJS
+Polling App with Socket IO and ReactJS - Lynda.com
